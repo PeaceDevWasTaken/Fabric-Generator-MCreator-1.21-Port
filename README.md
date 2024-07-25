@@ -1,4 +1,4 @@
-uhhhhh mcreator died so uh 1.21 port i guess, might be unstable who knows really, might upload a prebuilt release someday but not sure atm, in theory this port should work with little to no errors
+uhhhhh mcreator died so uh 1.21 port i guess, might be unstable who knows really, might upload a prebuilt release someday but not sure atm, in theory this port should work with little to no errors, have not tested this yet so if your trying to use this your kinda on your own here
 
 ## To install the plugin
 1. Install IntelliJ IDEA and open it. 
