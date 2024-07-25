@@ -3,7 +3,7 @@
     "latest": "1.11",
     "changes": [
       "(Ported to 1.21 Unofficially)",
-      "Moved required values and data to fit with the current latest Minecraft release since the original project is dead. Some atrobutes still may say the old version, this is just the bare minimum to get the project working again in 1.21.",
+      "Moved required values and data to fit with the current latest Minecraft release since the original project is dead. Some atrobutes still may say the old version, this is just the bare minimum to get the project working again in 1.21."
     ]
   }
 }
