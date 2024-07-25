@@ -1,4 +1,15 @@
-I decided to stop MCreator and leave the community. Please read this [topic](https://mcreator.net/forum/107531/final-chapter-my-journey).
+uhhhhh mcreator died so uh 1.21 port i guess, might be unstable who knows really
+
+## To install the plugin
+1. Install IntelliJ IDEA and open it. 
+2. Fork this repo and open it in IDEA
+3. Wander around and you'll find "exportPlugin", run it
+4. It will export the plugin
+5. Load the plugin though MCreator
+6. Close MCreator & reopen it
+7. Now, it should work
+- NOTE: Select the correct branch otherwise you'll end up exporting the wrong version.
+- credit to https://github.com/PSGitHubUser1 for writing this compiling guide
 
 # MCreator Fabric Generator
 
@@ -8,7 +19,7 @@ A plugin for [MCreator](https://mcreator.net/), a code generator to create Minec
 
 This project is not official. It is not affiliated with the respective owners and maintainers of Fabric, Minecraft, or MCreator. Do not expect any official support from their communities.
 
-**The current targeted Minecraft version is 1.20.1.**
+**The current targeted Minecraft version is 1.21.**
 
 ## Features
 Mod elements that are not mentioned are completely supported with all available features with Fabric.
@@ -28,7 +39,7 @@ Mod elements that are not mentioned are completely supported with all available 
 * Villager profession
 
 ## Important Information
-- Make sure you use MCreator 2023.4
+- Make sure you use whatever the flip the latest  MCreator version is idk i dont keep track of this stuff as long as it works we are good lol
 - Back up your workspace before updating to a newer version of the plugin.
 - Mods will also require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to function properly, so when you want to play your mod, make sure you have Fabric API.
 
