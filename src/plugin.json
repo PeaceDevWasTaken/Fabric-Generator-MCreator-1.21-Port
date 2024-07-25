@@ -1,6 +1,6 @@
 {
   "id": "generator-fabric-1.20.1",
-  "minversion": 00000000000,
+  "minversion": 202400118518,
   "maxversion": 99999999999,
   "weight":  11,
   "info": {
